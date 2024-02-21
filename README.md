@@ -8,7 +8,7 @@ JavaScript seems to be different in a way that I have not noticed between other 
 
 The template literal approach seem to be an interesting method to perform string concatenation that I would have not expected. (StringBuilder in Java is what I am most familiar with which seems to be setup nothing quite like the 'template literal' even though they accomplish the same thing). Also the usage of backticks is not to common for me either.
 
-Arrow functions seem kind of cool as a way to kind of stsreamline the code. Changing:  
+Arrow functions seem kind of cool as a way to kind of streamline the code. Changing:  
 const addition = function(num1 + num2){  
 return num1 +num2  
 }  
