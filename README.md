@@ -17,6 +17,6 @@ const addition = (num1, num2) => num1 + num2;
 Seems like a much more straight-forward approach.
 
 > [!NOTE]
-> I also came across some errors in my code when running it that did not appear while writing the code. I wonder if this is the "flexibility" they book was referring to.
+> I also came across some errors in my code when running it that did not appear while writing the code. I wonder if this is the "flexibility" the book was referring to.
 
 Overall I am enjoying this quite a bit. I even had everything work properly with cloning the repo, npm install, and pushing the work on the first attempt which was a relief. :smiling_face_with_tear:
