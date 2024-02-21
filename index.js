@@ -1,7 +1,6 @@
 function greet(name) {
-  return "Hello, " + myName + "!";
+  return `Hello, ${name}!`;
 }
-
 const myName = "Luke Tyon";
 const message = greet(myName);
 
